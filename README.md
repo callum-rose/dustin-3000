@@ -8,6 +8,8 @@ The firmware is written in C++ for an Arduino Mega (ATmega2560) and drives three
 
 ![CAD render of the robot](Renders/Assembly_2019-Jul-24_11-18-52AM-000_CustomizedView6822654692.png)
 
+![Prototype of the robot](Photos/Prototype.jpeg)
+
 ## How it works
 
 Dustin-3000 is a two-wheeled differential-drive platform with a third "agitator" motor that meters sand out of a hopper:
